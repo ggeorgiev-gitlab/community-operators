@@ -4,8 +4,7 @@ updateGraph: replaces-mode
 
 addReviewers: true
 reviewers:
-  - pedjak
-  - pmacik
+  - baijum
   - sadlerap
   - dperaza4dustbit
-  - shruthihub
+  - filario
